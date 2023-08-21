@@ -47,7 +47,7 @@ function Card() {
         </picture>
       </div>
       <div className={`btn ${animate ? 'animate': ''}`} onClick={animation}>
-        <img src="../images/icon-dice.svg" alt="Dice" />
+        <img src="../images/iconDice.svg" alt="Dice" />
       </div>
     </div>
   );
